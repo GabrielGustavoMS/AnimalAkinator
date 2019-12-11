@@ -38,7 +38,7 @@ do pacote de Códigos-Fonte Padrão.
 
 * A Inserção dos valores no vetor deve ser obrigatóriamente feita em nível.
 
-* Para visualizar as novas imagens na interface gráfica elas devem ser adicionadas no pacode "akinator.img" [akinator.img] e 
+* Para visualizar as novas imagens na interface gráfica elas devem ser adicionadas no pacote "akinator.img" [akinator.img] e 
 obrigatóriamente devem estar no formato ".jpg".
 
 * O projeto necessita de uma árvore binária cheia para funcionar.
